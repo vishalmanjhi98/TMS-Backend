@@ -1,4 +1,4 @@
-# Research: Ticket Management Backend
+ti# Research: Ticket Management Backend
 
 ## Decision: Use Spring Data JPA Specifications for ticket search
 
